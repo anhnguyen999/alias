@@ -8,14 +8,5 @@
 ```
 git clone https://github.com/just-team/alias.git
 npm install
-```
-
-install "react-native-sound" package in android system
-
-move to your react-native app folder
-create "raw" folder in /android/app/src/main/res/
-move sounds to raw folder
-
-```
 react-native run-android
 ```
